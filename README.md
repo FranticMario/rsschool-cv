@@ -1,1 +1,1 @@
-# rsschool-cv
+https://franticmario.github.io/rsschool-cv/cv
