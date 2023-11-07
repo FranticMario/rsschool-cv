@@ -2,12 +2,12 @@
 
 __Name :__ Andrej Dortmann
 
-__Contacts :__  
-- Discord - FranticMario#7131 , 
+__Contacts :__
+- Discord - FranticMario#7131 ,
 - Telegram - @FranticMario,
-- E-mail - andrej.dortmann25@gmail.com 
+- E-mail - andrej.dortmann25@gmail.com
 
-__Photo :__ 
+__Photo :__
 ![My image](https://i1.sndcdn.com/avatars-000425621052-frls6f-t500x500.jpg)
 
 ---
@@ -17,8 +17,7 @@ In university, we worked on website development (HTML, CSS) and optimization (JS
 
 ---
 
-__Skills:__  Basic level of HTML, CSS, and JS, MySQL, some Java. 
-
+__Skills:__  Basic level of HTML, CSS, and JS, MySQL, some Java.
 ---
 
 __Code example :__ Code example: I came across this problem when I was self-studying JS. Basically, I had to check a string for being an "isogram".
@@ -39,8 +38,8 @@ __Code example :__ Code example: I came across this problem when I was self-stud
 
 ---
 
-- __Work experience:__ None 
+- __Work experience:__ None
 
 - __Education:__  Currently studying at University
 
-- __Languages:__ English - very basic level, also proficient in German at B2 level and Russian. 
+- __Languages:__ English - very basic level, also proficient in German at B2 level and Russian.
